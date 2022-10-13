@@ -1,6 +1,6 @@
 import './styles/main.css';
 
-import backgroud from './assets/Banner_Header@2x.jpg'
+import backgroud from './assets/bannerheader.jpg'
 import compre from './assets/compre_online.png';
 import lojas from './assets/lojas.png';
 import logo from './assets/logo.png';
